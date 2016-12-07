@@ -15,7 +15,6 @@
   },
   "xo": {
     "esnext": true,
-    "space": 2,
     "globals": [
       "it",
       "describe",
